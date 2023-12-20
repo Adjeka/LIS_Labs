@@ -1,0 +1,31 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1703018697412,498,HTTP Request,200,OK,Users 1-4,text,true,,57422,228,8,8,https://eda72.com/,71,0,32
+1703018697412,71,HTTP Request-0,301,Moved Permanently,Users 1-4,,true,,83,114,8,8,http://eda72.com/,71,0,32
+1703018697484,426,HTTP Request-1,200,OK,Users 1-4,text,true,,57339,114,8,8,https://eda72.com/,375,0,306
+1703018697198,722,HTTP Request,200,OK,Users 1-1,text,true,,57406,228,8,8,https://eda72.com/,91,0,54
+1703018697198,95,HTTP Request-0,301,Moved Permanently,Users 1-1,,true,,83,114,8,8,http://eda72.com/,91,0,54
+1703018697296,624,HTTP Request-1,200,OK,Users 1-1,text,true,,57323,114,8,8,https://eda72.com/,594,0,488
+1703018697313,612,HTTP Request,200,OK,Users 1-3,text,true,,57414,228,7,7,https://eda72.com/,63,0,32
+1703018697313,63,HTTP Request-0,301,Moved Permanently,Users 1-3,,true,,83,114,7,7,http://eda72.com/,63,0,32
+1703018697377,548,HTTP Request-1,200,OK,Users 1-3,text,true,,57331,114,7,7,https://eda72.com/,488,0,413
+1703018697512,417,HTTP Request,200,OK,Users 1-5,text,true,,57495,228,6,6,https://eda72.com/,66,0,36
+1703018697512,66,HTTP Request-0,301,Moved Permanently,Users 1-5,,true,,83,114,6,6,http://eda72.com/,66,0,36
+1703018697579,350,HTTP Request-1,200,OK,Users 1-5,text,true,,57412,114,6,6,https://eda72.com/,286,0,211
+1703018697612,323,HTTP Request,200,OK,Users 1-6,text,true,,57421,228,5,5,https://eda72.com/,71,0,37
+1703018697612,71,HTTP Request-0,301,Moved Permanently,Users 1-6,,true,,83,114,5,5,http://eda72.com/,71,0,37
+1703018697684,251,HTTP Request-1,200,OK,Users 1-6,text,true,,57338,114,5,5,https://eda72.com/,181,0,107
+1703018697213,723,HTTP Request,200,OK,Users 1-2,text,true,,57443,228,4,4,https://eda72.com/,77,0,39
+1703018697213,81,HTTP Request-0,301,Moved Permanently,Users 1-2,,true,,83,114,4,4,http://eda72.com/,77,0,39
+1703018697296,640,HTTP Request-1,200,OK,Users 1-2,text,true,,57360,114,4,4,https://eda72.com/,570,0,488
+1703018697711,301,HTTP Request,200,OK,Users 1-7,text,true,,57502,228,4,4,https://eda72.com/,73,0,38
+1703018697711,73,HTTP Request-0,301,Moved Permanently,Users 1-7,,true,,83,114,4,4,http://eda72.com/,73,0,38
+1703018697785,227,HTTP Request-1,200,OK,Users 1-7,text,true,,57419,114,4,4,https://eda72.com/,157,0,81
+1703018697811,255,HTTP Request,200,OK,Users 1-8,text,true,,57445,228,3,3,https://eda72.com/,54,0,27
+1703018697811,54,HTTP Request-0,301,Moved Permanently,Users 1-8,,true,,83,114,3,3,http://eda72.com/,54,0,27
+1703018697866,200,HTTP Request-1,200,OK,Users 1-8,text,true,,57362,114,3,3,https://eda72.com/,137,0,73
+1703018697912,259,HTTP Request,200,OK,Users 1-9,text,true,,57445,228,2,2,https://eda72.com/,63,0,32
+1703018697912,63,HTTP Request-0,301,Moved Permanently,Users 1-9,,true,,83,114,2,2,http://eda72.com/,63,0,32
+1703018697976,195,HTTP Request-1,200,OK,Users 1-9,text,true,,57362,114,2,2,https://eda72.com/,134,0,71
+1703018698011,268,HTTP Request,200,OK,Users 1-10,text,true,,57422,228,1,1,https://eda72.com/,67,0,34
+1703018698011,67,HTTP Request-0,301,Moved Permanently,Users 1-10,,true,,83,114,1,1,http://eda72.com/,67,0,34
+1703018698079,200,HTTP Request-1,200,OK,Users 1-10,text,true,,57339,114,1,1,https://eda72.com/,137,0,72
