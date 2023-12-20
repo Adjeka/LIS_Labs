@@ -1,0 +1,15 @@
+Lab 1 – Формы мобильного приложения Twitch и 10 функций: 
+https://www.figma.com/file/HAZQzDZS8hD1IIaEL7vfdH/Untitled?type=design&node-id=0%3A1&mode=design&t=XreLnVD1z5TG6o4e-1
+
+Lab2 – Руководство пользователя к мобильному приложению Twitch: 
+https://docs.google.com/document/d/1uiITV5J9Lt9OrtzCM7OFGNG0b1iMxCiQcJhgSZXEQTE/edit?usp=sharing
+
+Lab3 – Тест-кейсы к мобильному приложению Twitch: 
+https://docs.google.com/document/d/1l_5P84Baqqx9ee3TeZCKRBgLpJPMMqr251f2fAQ4mXk/edit?usp=sharing
+
+Lab4 - Анализ формы регистрации на платформе Twitch: 
+https://docs.google.com/document/d/1CKSjSNlHZ6rrG3XwFJ7n6cdwY5JUOmiIcMrB-s_W5f0/edit?usp=sharing
+
+Lab5 - Дымовое тестирование сайта La Pizza: 
+https://docs.google.com/document/d/1JvwsatrnWV_tA0jVIy6q5x5tLrmKGwhhTfkAluVKaGw/edit?usp=sharing
+
